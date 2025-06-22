@@ -1,0 +1,12 @@
+body{
+    width: 600px;
+    background-color: beige;
+    font-family: verdana, "sans-serif";
+    margin: 0 auto;
+}
+img{
+    border-radius: 20px;
+    width:341px;
+    height:291px ;
+}
+
